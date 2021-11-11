@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @star123good
 - 👀 I’m interested in web development, and I've rich experiences in Full-Stack Dev.
-- 📫 My email address is star921str@hotmail.com, and I use the same Skype Id.
+- 📫 My email address is star921str@hotmail.com.
 - Thanks.
 
 <!---
